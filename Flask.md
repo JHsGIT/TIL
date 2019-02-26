@@ -87,12 +87,14 @@ html파일을 return하며, jinja2를 활용하여 변수/반복문/조건문 �
 
 * 폴더 구조
 
-├── app.py
-
-└── templates
-    ├── base.html
-    ├── dinner.html
-    └── hello.html
+  ```
+  ├── app.py
+  
+  └── templates
+      ├── base.html
+      ├── dinner.html
+      └── hello.html
+  ```
 
 ## 4. Template 활용 - jinja2 문법
 
